@@ -1,0 +1,9 @@
+name: GemsEconomy-migrator
+version: '1.0'
+main: com.blockdynasty.gemsEconomyMigrator.GemsEconomyMigrator
+api-version: '1.13'
+
+commands:
+  gemsMigrator:
+    description: Migrate data from GemsEconomy to another economy plugin.
+    usage: /gemsMigrator start

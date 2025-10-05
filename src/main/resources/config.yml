@@ -1,0 +1,15 @@
+gemsEconomy:
+  host: localhost
+  port: 3306
+  database: minecraft
+  tablePrefix: gemseconomy
+  username: root
+  password: password
+
+# BlockDynasty Database Configuration
+blockDynasty:
+  host: localhost
+  port: 3306
+  database: blockdynasty
+  username: root
+  password: password
